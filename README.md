@@ -13,9 +13,9 @@ The objective was to **analyze financial performance, valuation metrics, ownersh
 
 ## 🖼 Project Preview
 
+
 <p align="center">
-  <img src="![One Page Company Profile_page-0001](https://github.com/user-attachments/assets/87d34f06-454e-4fa0-9700-4de117fbb5d6)
-" alt="ITC Limited One Page Equity Research Snapshot" width="800">
+  <img src="https://img.sanishtech.com/u/435bba93f7177030aa6c0a6909c92547.jpg" alt="ITC Limited One Page Equity Research Snapshot" width="850">
 </p>
 
 ---
