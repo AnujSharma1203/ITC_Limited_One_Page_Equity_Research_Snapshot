@@ -1,0 +1,1 @@
+# ITC_Limited_One_Page_Equity_Research_Snapshot
