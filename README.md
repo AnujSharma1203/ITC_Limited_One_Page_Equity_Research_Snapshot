@@ -9,9 +9,6 @@ This repository showcases a **one-page equity research snapshot of ITC Limited**
 
 The objective was to **analyze financial performance, valuation metrics, ownership structure, and market trends**, and present them in a **concise, professional one-page format** suitable for quick screening and informed equity analysis.
 
----
-
-## 🖼 Project Preview
 
 ---
 
